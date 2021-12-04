@@ -1,0 +1,11 @@
+{
+  "jwtSecret": "xchat",
+  "socketPath": "/Applications/MAMP/tmp/mysql/mysql.sock",
+  "host": "localhost",
+  "user": "root",
+  "password": "root",
+  "database": "xchats",
+  "waitForConnections": true,
+  "connectionLimit": 10,
+  "queueLimit": 0
+}
